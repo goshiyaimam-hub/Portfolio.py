@@ -40,9 +40,8 @@ Database
 
 SQL
 
-MySQL
 
-Tools
+<<Tools>>
 
 GitHub
 
